@@ -15,3 +15,6 @@
 10. Какие типы контента приводят к наибольшему приросту подписчиков, и какие форматы стоит масштабировать?
 # 3. Код и 10 графиков
  файл с кодом: [rubezhka.ipynb](https://github.com/user-attachments/files/24079956/rubezhka.ipynb)
+Графики: 
+график 1
+<img width="1086" height="596" alt="image" src="https://github.com/user-attachments/assets/6d6e9921-e13d-4b31-b7c2-c8187803b211" />
