@@ -14,4 +14,4 @@
 9. Как изменяется ER_on_Reach со временем, и какие периоды показывают рост или падение эффективности контента?
 10. Какие типы контента приводят к наибольшему приросту подписчиков, и какие форматы стоит масштабировать?
 # 3. Код и 10 графиков
-[rubezhka.ipynb](https://github.com/user-attachments/files/24079956/rubezhka.ipynb)
+ файл с кодом: [rubezhka.ipynb](https://github.com/user-attachments/files/24079956/rubezhka.ipynb)
